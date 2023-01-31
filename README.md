@@ -1,6 +1,6 @@
 Github Stats             |  Current Streak
 :-------------------------:|:-------------------------:
-![](https://github-readme-stats.vercel.app/api?username=renovacibr&show_icons=true&count_private=true&theme=github_dark)  |  ![](https://github-readme-streak-stats.herokuapp.com/?user=renovacibr&theme=github_dark)
+![](https://github-readme-stats.vercel.app/api?username=renovacibr&show_icons=true&count_private=true&theme=github_dark)  |  ![](https://github-readme-streak-stats.herokuapp.com/?user=renovacibr&theme=github-dark-blue)
 
 ![Renovaci github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=renovacibr&theme=github-dark)
 
